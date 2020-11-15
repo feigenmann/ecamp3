@@ -111,6 +111,12 @@
             "title": "Lagerabschnitt | Lagerabschnitte"
          },
          "campPrint": {
+            "toc": "Inhaltsverzeichnis",
+            "picasso": "Picasso",
+            "storyline": "Handlung",
+            "dailySummary": "Tagesübersicht",
+            "activities": "Aktivitäten",
+            "frontpage": "Deckblatt",
             "openPrintPreview": "Druckvorschau öffnen",
             "printNow": "Jetzt drucken",
             "selectPrintPreview": "Druckvorschau auswählen:",
