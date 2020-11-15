@@ -113,7 +113,7 @@
          "campPrint": {
             "openPrintPreview": "Druckvorschau öffnen",
             "printNow": "Jetzt drucken",
-            "selectPrintPreview": "Druckvorschau auswählen",
+            "selectPrintPreview": "Druckvorschau auswählen:",
             "title": "Drucken"
          },
          "campSettings": {
