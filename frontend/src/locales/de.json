@@ -116,29 +116,25 @@
             "selectPrintPreview": "Druckvorschau zeigen",
             "title": "Drucken"
          },
+         "campSettings": {
+            "fields": {
+               "motto": "Motto",
+               "name": "Name",
+               "title": "Einstellungen"
+            }
+         },
          "collaboratorListItem": {
             "remove": "Entfernen"
          }
       },
       "campPeriodsListItem": {
          "deleteWarning": "Möchtest du diese Periode wirklich löschen?"
-      },
-      "campSettings": {
-         "fields": {
-            "motto": "Motto",
-            "name": "Name",
-            "title": "Titel"
-         },
-         "title": "Einstellungen"
-      },
-      "collaboratorListItem": {
-         "remove": "entfernen"
+      }
       },
       "picasso": {
          "moment": {
             "date": "dd. D.MM | D. MMM | DD. MMM YYYY"
          }
-      }
    },
    "entity": {
       "activity": {
